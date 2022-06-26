@@ -18,6 +18,12 @@
 - :handshake: I’m open to collaboration.
 - 💬 Ask me about anything [here]([https://discord.gg/2uBfu8E](https://www.linkedin.com/in/juangsabit/)).
 
+## Todo
+- [x] Born
+- [x] Eat
+- [x] Code
+- [ ] Sleep
+
 ## Languages and Technologies
 
 <p align="center">
@@ -33,12 +39,6 @@
       <img src="https://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows" alt="windows" height="50px"/>
       <img src="https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux" alt="linux" height="50px"/>
 </p>
-
-## Todo
-- [x] Born
-- [x] Eat
-- [x] Code
-- [ ] Sleep
 
 ## Stats
   
