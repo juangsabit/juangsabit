@@ -16,7 +16,7 @@
 - 🔭 I’m Software Development Enthusiast.
 - 🌱 I’m currently learning about web development.
 - :handshake: I’m open to collaboration.
-- 💬 Ask me about anything [here](https://discord.gg/2uBfu8E](https://www.linkedin.com/in/juangsabit/).
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/juangsabit/).
 
 ## Todo
 - [x] Born
